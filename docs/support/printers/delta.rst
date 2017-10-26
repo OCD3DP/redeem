@@ -349,7 +349,7 @@ rerun G33 once you've made this change.
 
 Well, I'm sure I'm forgetting something, or something seems crazy, or
 heck, maybe I'm even wrong somewhere! My suggestion is shoot me an email
-at 95roverd90@gmail.com, or hitting any of us up on Slack or G+! Don't
+at 95roverd90@gmail.com, or hit any of us up on Slack or G+! Don't
 hesitate to ask questions!
 
 calibrating convex/concave behaviour
